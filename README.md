@@ -11,6 +11,8 @@
 3. 预测收盘价格
 
 ## 结果
+模型收敛过程
+
 ![模型收敛过程](https://github.com/HouchangX-AI/Stock-Price-Prediction-using-Hidden-Markov-Model/blob/master/Figure_1.png)
 
 模型预测结果：待提交
